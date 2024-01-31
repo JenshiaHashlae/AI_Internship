@@ -1,0 +1,2 @@
+x="Belgi"
+print(x)
